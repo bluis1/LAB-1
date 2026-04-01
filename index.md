@@ -55,8 +55,8 @@ This is ~~strikethrough~~ text.
 
 [Open README](README.md)
 
-[My emotional support/reliable mentor when I code](c:\Users\11lui\Downloads\Savior.jpg)
+[My emotional support/reliable mentor when I code](Savior.jpg)
 
 ## Picture
-![A music piece I enjoy](c:\Users\11lui\Downloads\musicPiece.jpg)
+![A music piece I enjoy](musicPiece.jpg)
 
