@@ -31,3 +31,32 @@ int main() {
     cout << "Hello, GitHub Pages!" << endl;
     return 0;
 }
+```
+
+
+
+## Text Styling
+This is *italic* text.  
+This is **bold** text.  
+This is ~~strikethrough~~ text.
+
+## Tasks
+- [x] Create index.md
+- [x] Add headings
+- [x] Add a quote
+- [x] Add code
+- [ ] Publish the github pages
+- [ ] Add github pages URL to README.md
+
+## Links
+[Visit GitHub](https://github.com)
+
+[Jump to Tasks](#tasks)
+
+[Open README](README.md)
+
+[My emotional support/reliable mentor when I code](Savior.jpg)
+
+## Picture
+![A music piece I enjoy](musicPiece.jpg)
+
