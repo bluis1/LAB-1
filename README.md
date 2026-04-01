@@ -1,2 +1,1 @@
-# LAB-1
-LAB 1 FOR CSE 110
+Benedict's User Page
