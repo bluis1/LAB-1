@@ -45,8 +45,8 @@ This is ~~strikethrough~~ text.
 - [x] Add headings
 - [x] Add a quote
 - [x] Add code
-- [ ] Publish the github pages
-- [ ] Add github pages URL to README.md
+- [x] Publish the github pages
+- [x] Add github pages URL to README.md
 
 ## Links
 [Visit GitHub](https://github.com)
